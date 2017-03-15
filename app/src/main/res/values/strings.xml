@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TableTopper</string>
+
+    <string name="title_section1">Dice Throw</string>
+    <string name="title_section2">Counters</string>
+    <string name="title_section3">Calculator</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="def">Empty</string>
+
+    <string name="txt_amount">Amount</string>
+    <string name="txt_type">Type</string>
+
+    <string name="btn_throw">Throw!</string>
+    <string name="title_activity_counter_edit">Edit Counter</string>
+
+    <string name="txt_def_value_counter_edit">Default Value:</string>
+    <string name="txt_name_counter_edit">Name:</string>
+    <string name="btn_cancel_counter_edit">Cancel</string>
+    <string name="btn_save_counter_edit">Save</string>
+    <string name="txt_shape_counter_edit">Shape:</string>
+    <string name="txt_color_counter_edit">Color:</string>
+
+    <string name="n1">1</string>
+    <string name="n2">2</string>
+    <string name="n3">3</string>
+    <string name="n4">4</string>
+    <string name="n5">5</string>
+    <string name="n6">6</string>
+
+    <string name="d6">d6</string>
+    <string name="d20">d20</string>
+
+    <string name="image_circle">Circle</string>
+    <string name="image_diamond">Diamond</string>
+
+    <string name="color_white">White</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_red">Red</string>
+    <string name="color_green">Green</string>
+    <string name="color_yellow">Yellow</string>
+
+    <string name="txt_dice_calculator">Dice</string>
+    <string name="txt_counters_calculator">Counters</string>
+    <string name="txt_numbers_calculator">Numbers</string>
+
+    <string name="toast_not_a_number">Value is not a whole number</string>
+</resources>

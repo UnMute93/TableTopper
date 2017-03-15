@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="amount_array">
+        <item>@string/n1</item>
+        <item>@string/n2</item>
+        <item>@string/n3</item>
+        <item>@string/n4</item>
+        <item>@string/n5</item>
+        <item>@string/n6</item>
+    </string-array>
+
+    <string-array name="type_array">
+        <item>@string/d6</item>
+        <item>@string/d20</item>
+    </string-array>
+
+    <string-array name="shape_array">
+        <item>@string/image_circle</item>
+        <item>@string/image_diamond</item>
+    </string-array>
+
+    <string-array name="color_array">
+        <item>@string/color_white</item>
+        <item>@string/color_blue</item>
+        <item>@string/color_red</item>
+        <item>@string/color_green</item>
+        <item>@string/color_yellow</item>
+    </string-array>
+</resources>
